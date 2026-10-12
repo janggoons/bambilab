@@ -1,0 +1,14 @@
+title: 밤비네 연구소 Bambi Lab
+description: 밤비네 가족이 운영하는 메이커·교육 기록 사이트
+lang: ko
+# 프로젝트 저장소(<계정>.github.io/bambilab) 기준. 사용자 사이트(<계정>.github.io)로 옮기면 baseurl을 "" 로 바꾸세요.
+baseurl: "/bambilab"
+url: "https://janggoons.github.io"
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
